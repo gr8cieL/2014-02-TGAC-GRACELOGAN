@@ -1,7 +1,7 @@
-Authors:
-Title:
+Authors:Grace Logan
+Title:Why Weasels Love Science
 
-Introduction:
-Data:
+Introduction:Due to their giant brains, weasels thinks science is great.
+Data:Lots, many interviews completed.
 Analysis:
 Conclusions:
